@@ -1,0 +1,8 @@
+# Virtual Environment
+.venv
+
+# Vs Code
+.DS_Store
+
+# Dataset files
+*.parquet
